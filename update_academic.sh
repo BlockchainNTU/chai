@@ -1,3 +1,5 @@
+# This script is no longer necessary, as we have our in-house themes/academic directory (not a submodule anymore) 
+
 #!/usr/bin/env bash
 
 # Display available updates to Academic.
